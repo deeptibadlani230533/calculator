@@ -2,6 +2,8 @@
 A simple calculator web app built with HTML, CSS and Javascript.
 This is a very basic project made while learning HTML,CSS and Javascript.
 
+#Live Demo
+Try the calculator online here: https://deeptibadlani230533.github.io/calculator/
 
 #Files in this project
 1.)calculator.html → Contains the structure of the calculator
